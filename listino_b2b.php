@@ -18,8 +18,8 @@ class Listino_B2B extends Module
     {
         $this->name = 'listino_b2b';
         $this->tab = 'pricing_promotion';
-        $this->version = '2.0.0';
-        $this->author = 'PrestaShop Developer';
+        $this->version = '1.0.0';
+        $this->author = 'Emilio Grimaldi';
         $this->need_instance = 0;
         $this->ps_versions_compliancy = array('min' => '1.7', 'max' => _PS_VERSION_);
         $this->bootstrap = true;
